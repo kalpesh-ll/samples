@@ -1,13 +1,15 @@
 {
- “name”: “node-app”,
- “description”: “hello jenkins test app”,
- “version”: “0.0.1”,
- “private”: true,
- “dependencies”: {
-    “express”: “3.12.0”
+ "name": "hello-cli",
+ "version": "1.0.0",
+ "description": "",
+ "main": "bin/index.js",
+ "scripts": {
+   "test": "echo \"Error: no test specified\" && exit 1"
  },
- “devDependencies”: {
-    “mocha”: “1.20.1”,
-    “supertest”: “0.13.0”
+ "keywords": [],
+ "author": "David Neal (https://reverentgeek.com)",
+ "license": "MIT",
+ "bin": {
+   "hello": "./bin/index.js"
  }
 }
