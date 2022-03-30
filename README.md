@@ -1,2 +1,2 @@
 # samples
-Test Node.js app
+Repo for sample Jenkins Node.Js apps
