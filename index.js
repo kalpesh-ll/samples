@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-console.log( "Build Success" );
+console.log( "Well Done Build Was A Success" );
