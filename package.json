@@ -1,6 +1,7 @@
 {
  "name": "build-cli",
  "version": "1.0.0",
+ "private": true
  "description": "",
  "main": "bin/index.js",
  "scripts": {
